@@ -1,0 +1,5 @@
+Plaintext
+.env
+__pycache__/
+*.csv
+/models
